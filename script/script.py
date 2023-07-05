@@ -43,7 +43,7 @@ for celement in price_elements:
     name = int(name)
     price.append(name)
 
-max = input("Enter the maximum price you to pay for your laptop: ")
+max = input("Enter the maximum price you want to pay for your laptop: ")
 
 # Check which models' prices are not over the limit
 while j < 24:
